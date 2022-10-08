@@ -16,12 +16,13 @@ body {
 
 
 .music-player {
+   padding: 1rem;
     width: 350px;
     height: 550px;
     border-radius: 20px;
     background: rgba(255, 225, 225, 0.08);
     box-shadow: 0 40px 100px rgba(255, 225, 225, 0.1);
-    color: #4700D8;
+    color: #7cc22b;
     overflow:hidden ;
 }
 
@@ -120,7 +121,7 @@ body {
     width: 60px;
     height: 60px;
     border-radius: 50%;
-    background: #d5eebb;
+    background: #99e647;
     cursor: pointer;
     border: none;
 }
@@ -175,7 +176,7 @@ body {
 .btn {
     width: 40px;
     height: 40px;
-    background: #d5eebb;
+    background: #99e647;
     border-radius: 50%;
     display: flex;
     justify-content: center;
